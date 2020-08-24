@@ -1,0 +1,8 @@
+-M
+microblaze-fdt
+-device
+loader,file=<platform_prj_base/standalone_domain/qemu/pmufw.elf>
+-machine-path
+.
+-display
+none

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="xaxipmon_ocm_example_1" location="C:/Users/richo/ws/sys/sw/workspace/xaxipmon_ocm_example_1" platform="C:/Users/richo/ws/sys/sw/workspace/platform_prj_base/export/platform_prj_base/platform_prj_base.xpfm" platformUID="xilinx:ultra96v2::0.0(custom)" systemProject="system_bsp_example_1" sysConfig="platform_prj_base" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="50c6c404afd477e7ac01ad344fe08663">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1497066460" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.213689467" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

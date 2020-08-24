@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Debugger_xaxipmon_ocm_example_1-Default,org.eclipse.launchbar.core.descriptorType.default\:Debugger_app_prj_base-Default,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_system_bsp_example_1,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_app_prj_base_system,org.eclipse.launchbar.core.descriptorType.default\:Debugger_app_prj_base2-Default
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_app_prj_base-Default/activeLaunchMode=embrun
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_app_prj_base-Default/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_app_prj_base2-Default/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_xaxipmon_ocm_example_1-Default/activeLaunchMode=embrun
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_app_prj_base_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_system_bsp_example_1/activeLaunchMode=run
